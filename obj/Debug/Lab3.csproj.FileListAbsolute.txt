@@ -1,0 +1,47 @@
+G:\Другие компьютеры\Пекарня\6 сем\Введение в операционные системы\Lab3\Lab3\bin\Debug\Lab3.exe.config
+G:\Другие компьютеры\Пекарня\6 сем\Введение в операционные системы\Lab3\Lab3\bin\Debug\Lab3.exe
+G:\Другие компьютеры\Пекарня\6 сем\Введение в операционные системы\Lab3\Lab3\bin\Debug\Lab3.pdb
+G:\Другие компьютеры\Пекарня\6 сем\Введение в операционные системы\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+G:\Другие компьютеры\Пекарня\6 сем\Введение в операционные системы\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+G:\Другие компьютеры\Пекарня\6 сем\Введение в операционные системы\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+G:\Другие компьютеры\Пекарня\6 сем\Введение в операционные системы\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+G:\Другие компьютеры\Пекарня\6 сем\Введение в операционные системы\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+G:\Другие компьютеры\Пекарня\6 сем\Введение в операционные системы\Lab3\Lab3\obj\Debug\Lab3.exe
+G:\Другие компьютеры\Пекарня\6 сем\Введение в операционные системы\Lab3\Lab3\obj\Debug\Lab3.pdb
+G:\Другие компьютеры\Пекарня\6 сем\Введение в операционные системы\Lab3\bin\Debug\Lab3.exe.config
+G:\Другие компьютеры\Пекарня\6 сем\Введение в операционные системы\Lab3\bin\Debug\Lab3.exe
+G:\Другие компьютеры\Пекарня\6 сем\Введение в операционные системы\Lab3\bin\Debug\Lab3.pdb
+G:\Другие компьютеры\Пекарня\6 сем\Введение в операционные системы\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+G:\Другие компьютеры\Пекарня\6 сем\Введение в операционные системы\Lab3\obj\Debug\Lab3.Form1.resources
+G:\Другие компьютеры\Пекарня\6 сем\Введение в операционные системы\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+G:\Другие компьютеры\Пекарня\6 сем\Введение в операционные системы\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+G:\Другие компьютеры\Пекарня\6 сем\Введение в операционные системы\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+G:\Другие компьютеры\Пекарня\6 сем\Введение в операционные системы\Lab3\obj\Debug\Lab3.exe
+G:\Другие компьютеры\Пекарня\6 сем\Введение в операционные системы\Lab3\obj\Debug\Lab3.pdb
+G:\Другие компьютеры\Пекарня\6 сем\Введение в операционные системы\Lab3\obj\Debug\Lab3.Form2.resources
+G:\Другие компьютеры\Пекарня\6 сем\Введение в операционные системы\Lab3\obj\Debug\Lab3.Form3.resources
+E:\ДЗ МЭИ\3 курс\6 сем\Введение в операционные системы\Lab3\bin\Debug\Lab3.exe.config
+E:\ДЗ МЭИ\3 курс\6 сем\Введение в операционные системы\Lab3\bin\Debug\Lab3.exe
+E:\ДЗ МЭИ\3 курс\6 сем\Введение в операционные системы\Lab3\bin\Debug\Lab3.pdb
+E:\ДЗ МЭИ\3 курс\6 сем\Введение в операционные системы\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+E:\ДЗ МЭИ\3 курс\6 сем\Введение в операционные системы\Lab3\obj\Debug\Lab3.Form1.resources
+E:\ДЗ МЭИ\3 курс\6 сем\Введение в операционные системы\Lab3\obj\Debug\Lab3.Form2.resources
+E:\ДЗ МЭИ\3 курс\6 сем\Введение в операционные системы\Lab3\obj\Debug\Lab3.Form3.resources
+E:\ДЗ МЭИ\3 курс\6 сем\Введение в операционные системы\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+E:\ДЗ МЭИ\3 курс\6 сем\Введение в операционные системы\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+E:\ДЗ МЭИ\3 курс\6 сем\Введение в операционные системы\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+E:\ДЗ МЭИ\3 курс\6 сем\Введение в операционные системы\Lab3\obj\Debug\Lab3.exe
+E:\ДЗ МЭИ\3 курс\6 сем\Введение в операционные системы\Lab3\obj\Debug\Lab3.pdb
+E:\ДЗ МЭИ\3 курс\6 сем\Введение в операционные системы\Lab3\obj\Debug\Lab3.Form4.resources
+E:\ДЗ МЭИ\3 курс\6 сем\Введение в операционные системы\Lab3\obj\Debug\Lab3.Form5.resources
+C:\Users\user\Desktop\mpei\ос\лаба3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\mpei\ос\лаба3\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\user\Desktop\mpei\ос\лаба3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\user\Desktop\mpei\ос\лаба3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\user\Desktop\mpei\ос\лаба3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\mpei\ос\лаба3\Lab3\obj\Debug\Lab3.exe
+C:\Users\user\Desktop\mpei\ос\лаба3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\user\Desktop\mpei\ос\лаба3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\user\Desktop\mpei\ос\лаба3\Lab3\bin\Debug\Lab3.exe
+C:\Users\user\Desktop\mpei\ос\лаба3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\user\Desktop\mpei\ос\лаба3\Lab3\obj\Debug\Lab3.Form2.resources
